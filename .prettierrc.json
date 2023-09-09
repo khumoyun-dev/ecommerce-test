@@ -1,0 +1,24 @@
+{
+  "endOfLine": "auto",
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "arrowParens": "always",
+  "useTabs": true,
+  "bracketSameLine": true,
+  "jsxBracketSameLine": true,
+  "importOrder": [
+    "^react/(.*)$",
+    "^(redux/(.*)$)",
+    "^(pages/(.*)$)",
+    "^(components/(.*)$)",
+    "^(utils/(.*)$)",
+    "^(hooks/(.*)$)",
+    "^(ts/(.*)$)",
+    "^[./]"
+  ],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true
+}
